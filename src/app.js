@@ -7,6 +7,7 @@ const forecast = require('./utils/forecast')
 // console.log(__dirname)
 // console.log(path.join(__dirname, '../public'))
 
+//Starting express
 const app = express()
 
 // Define paths for Express config

@@ -17,7 +17,6 @@ console.log('Client side js file')
     })
 })*/
 
-//Just the code and nothing else
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
